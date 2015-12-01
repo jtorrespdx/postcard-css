@@ -15,3 +15,22 @@
         url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.woff') format('woff'),
         url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.ttf')  format('truetype');
 }
+
+body {
+  font: 21px sans-serif;
+
+  padding: 2em;
+  margin: 0;
+
+  background: #222;
+}
+
+form {
+  position: relative;
+
+  width: 740px;
+  height: 498px;
+  margin: 0 auto;
+
+  background: #FFF url(../images/postcard.jpg)
+}

@@ -1,0 +1,17 @@
+@font-face{
+  font-family : "handwriting";
+
+  src:  url('fonts/journal_regular_macroman/journal-webfont.eot');
+  src:  url('fonts/journal_regular_macroman/journal-webfont.eot?') format('eot'),
+        url('fonts/journal_regular_macroman/journal-webfont.woff') format('woff'),
+        url('fonts/journal_regular_macroman/journal-webfont.ttf')  format('truetype');
+}
+
+@font-face{
+  font-family : "typewriter";
+
+  src:  url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.eot');
+  src:  url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.eot?') format('eot'),
+        url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.woff') format('woff'),
+        url('fonts/secrettypewriter_regular_macroman/veteran_typewriter-webfont.ttf')  format('truetype');
+}

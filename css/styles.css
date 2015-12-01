@@ -34,3 +34,38 @@ form {
 
   background: #FFF url(../images/postcard.jpg)
 }
+
+h1  {
+  position: absolute;
+  left: 415px;
+  top: 185px;
+
+  font: 1em "typewriter", sans-serif;
+}
+
+#form {
+  position: absolute;
+  left: 398px;
+  top: 235px;
+}
+
+#message {
+  position: absolute;
+  left: 20px;
+  top: 70px;
+}
+
+label {
+  font: .8em "typewriter", sans-serif;
+}
+
+input, textarea {
+  font: .9em/1.5em "handwriting", sans-serif;
+
+  border: none;
+  padding: 0 10px;
+  margin: 0;
+  width: 240px;
+
+  background: none;
+}
